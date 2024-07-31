@@ -1,2 +1,2 @@
 # SQL-python
-Connectivity of SQL with python
+Connectivity of SQL with python.
